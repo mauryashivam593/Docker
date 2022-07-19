@@ -1,4 +1,4 @@
-FROM nginx:1.15.8-alpine
+FROM nginx:1-alpine
 
 LABEL company="ABC"
 LABEL version="1.0.0"
